@@ -1,0 +1,1 @@
+from .football_pitch_config import SoccerPitchConfiguration
