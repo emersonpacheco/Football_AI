@@ -11,7 +11,7 @@ from pitch_points import PitchPoints
 
 def main ():
 
-    video_frames = read_video('input_videos/4.mp4')
+    video_frames = read_video('input_videos/input_video.mp4')
 
     tracker = Tracker('models/best.pt')
 
