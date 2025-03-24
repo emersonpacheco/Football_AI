@@ -1,3 +1,10 @@
+An AI to analyse football matches using python, YOLO.
+
+
+![screenshot](https://github.com/user-attachments/assets/6d5b2320-8396-4902-a39b-872f7eee9890)
+
+
+
 INSTRUCTIONS
     1.Train the player tracker model and put the trained model as 'best.pt' in the 'model' folder (I used the Roboflow dataset to train both models)
     2.Train the pitch points model and put as 'best.pt' in the 'pitch_models' folder
